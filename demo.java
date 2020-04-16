@@ -1,9 +1,4 @@
-public class Demo{
-private int id;
-private String username;
-private String password;
-private String sex;
-private int age;
-
-
+pubilc class Demo{
+public int login(){}
+public int register(){}
 }
