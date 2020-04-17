@@ -1,4 +1,4 @@
-pubilc class Demo{
-public int login(){}
-public int register(){}
+public class Demo{
+private String login(){}
+private String register(){}
 }
